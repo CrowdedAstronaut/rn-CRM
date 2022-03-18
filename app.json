@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-CRM",
+    "slug": "rn-CRM",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-CRM"
+}
